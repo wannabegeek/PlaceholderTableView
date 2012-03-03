@@ -19,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E2AFCD62150272090025FA3D /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		E2BB1DA5147A7564002263D0 /* PlaceholderTableViewDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PlaceholderTableViewDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2BB1DA9147A7564002263D0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		E2BB1DAB147A7564002263D0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -53,6 +54,7 @@
 		E2BB1D9A147A7564002263D0 = {
 			isa = PBXGroup;
 			children = (
+				E2AFCD62150272090025FA3D /* LICENSE */,
 				E2BB1DAF147A7564002263D0 /* PlaceholderTableViewDemo */,
 				E2BB1DA8147A7564002263D0 /* Frameworks */,
 				E2BB1DA6147A7564002263D0 /* Products */,
@@ -280,6 +282,7 @@
 				E2BB1DC5147A7564002263D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
